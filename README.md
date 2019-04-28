@@ -1,3 +1,3 @@
-# k8s-iamges
+# k8s-images
 
 DockerHub and github make k8s images
